@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: o;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+/*Business Development Card*/
+.bs_card {
+  background-color: rgba(83, 245, 159, 0.975);
+  width: 720px;
+  margin: 70px auto;
+  padding: 120px 40px;
+  border-radius: 14px;
+}
+.share_ideas_btn {
+  background-color: white;
+  border: none;
+  margin-top: 20px;
+  padding: 14px 40px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 45px;
+  text-decoration: solid;
+}
+/*Profiles Card*/
+.profile_card {
+  background-color: white;
+  width: 540px;
+  border: 1px solid rgb(197, 202, 209);
+  color: black;
+  margin: 30px auto;
+  border-radius: 14px;
+}
+.main_div {
+  margin: 30px 0;
+  padding-left: 12px;
+}
+.p_text {
+  color: rgb(151, 157, 165);
+}
+.image_container {
+  display: flex;
+  margin: 25px;
+}
+.circular_image {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 5px 15px;
+}
+.see_profiles {
+  border-top: 1px solid rgb(197, 202, 209);
+  padding: 14px;
+  color: #2962ff;
+}
+/* GOOGLE AD */
+.gp_card {
+  background-color: white;
+  width: 480px;
+  border: 1px solid rgb(197, 202, 209);
+  color: black;
+  margin: 30px auto;
+  border-radius: 14px;
+  padding-bottom: 10px;
+}
+.gp_png {
+  width: 100%;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+}
+.view_btn {
+  border: 1px solid rgb(197, 202, 209);
+  margin: 14px;
+  border-radius: 14px;
+  width: 30%;
+  font-weight: bold;
+  color: white;
+  padding: 15px;
+  color: #2962ff;
+}
+
+/* flodesk */
+.flodesk_login {
+  background-color: white;
+  color: black;
+  margin: 50px auto;
+  width: 400px;
+  text-align: center;
+  padding: 40px;
+}
+.flodesk_head {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 28px;
+  font-weight: 1000;
+  font-size: 45px;
+}
+.Welcome_h {
+  font-weight: 1000;
+  margin-bottom: 28px;
+  font-size: large;
+}
+.input {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 16px;
+  box-sizing: border-box;
+  font-size: 16px;
+  border-radius: 12px;
+  border: 1px solid lightgray;
+}
+.logIn_btn {
+  width: 100%;
+  padding: 14px;
+  font-weight: bold;
+  border-radius: 60px;
+  background-color: black;
+  color: white;
+  margin-bottom: 20px;
+}
+a {
+  color: black;
+  text-decoration-line: underline;
+  text-decoration-color: black;
+}
+.links {
+  margin-bottom: 15px;
+}
+.Disclaimer_p {
+  font-size: 19px;
+  margin-top: 30px;
+  color: rgb(151, 157, 165);
+}
